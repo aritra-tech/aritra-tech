@@ -21,38 +21,39 @@
 - 👯 I’m looking to collaborate on Projects,Tech Articles
 
 - 💬 Talk to me about Java, Android, Freelancing Opportunites, Open Source , UI/UX Designing
+    
+## 👨🏻‍💻 Coding Profiles
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<div align="center" width=100%>
-    <img title="C" height="50" src="https://img.icons8.com/color/48/000000/c-programming.png">
-    <img title="Java" height="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
-    <img title="Adobe Photoshop" height="50" src="https://img.icons8.com/fluent/48/000000/adobe-photoshop.png" />
-    <img title="Adobe XD" height="50" src="https://img.icons8.com/color/48/000000/adobe-xd.png">
-    <img title="Android Studio" height="50" src="https://img.icons8.com/fluent/48/000000/android-os.png"/>
-    <img title="HTML" height="50" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-    <img title="CSS" height="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <img title="Figma" height="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/aritrarick2002/)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/aritrarick2002)
 
-</div>
+## ⚡ Technologies
+    
+### Language
+
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+    
+### Tools:
+
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<p align="center">
-    <a href="https://www.linkedin.com/in/aritra-das-/">
-      <img alt="LinkedIn" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
-    </a>
-    <a href="https://www.instagram.com/lazy_devops/">
-      <img alt="Instragram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
-    </a>
-    <a href="https://www.behance.net/aritradas8">
-      <img alt="Behance" src="https://img.icons8.com/color/48/000000/behance.png" />
-    </a>
-
-  </p>
+    
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranaygupta.aec@gmail.com)](mailto:aritrarick2002@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thepranaygupta/)](https://www.linkedin.com/in/aritra-das-/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pranayguptaa/)](https://www.instagram.com/lazy_devops/)
 
 <br>
 <br>
   <br>
 
+## 📈 Stats
  ![Arita's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=aritra-tech&theme=redical&hide_border=true&area=true)
 | ![Arita github stats](https://github-readme-stats.vercel.app/api?username=aritra-tech&show_icons=true&theme=radical)             | ![Aritra GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aritra-tech&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

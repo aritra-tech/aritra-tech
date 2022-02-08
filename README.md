@@ -50,8 +50,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pranayguptaa/)](https://www.instagram.com/lazy_devops/)
 
 <br>
-<br>
-  <br>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=aritra-tech)
 
 ## 📈 Stats
  ![Arita's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=aritra-tech&theme=redical&hide_border=true&area=true)

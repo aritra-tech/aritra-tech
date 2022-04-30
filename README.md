@@ -52,9 +52,18 @@
 
 ## 🏆 Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=aritra-tech)
+# Productivity Stats📈:
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aritra-tech&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+   </tr> 
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=aritra-tech&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
+  </td>
+  </tr>
+</table>
 
-## 📈 Stats
- ![Arita's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=aritra-tech&theme=redical&hide_border=true&area=true)
+## 📊 GitHub Activity
 | ![Arita github stats](https://github-readme-stats.vercel.app/api?username=aritra-tech&show_icons=true&theme=radical)             | ![Aritra GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aritra-tech&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aritra-tech&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=aritra-tech&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |

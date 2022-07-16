@@ -38,7 +38,6 @@
 
 [![Aritra's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=aritra-tech&theme=xcode)](https://github.com/aritra-tech) <br>
 
-![GitHub Snake dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 </div>
 
 

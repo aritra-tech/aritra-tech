@@ -3,7 +3,7 @@
  </p>
 
 # 💫 About Me:
-👨🏽‍💻 A passionate Android Developer & UI/UX Designer<br> 🎓I'm a 3rd year CSE student at JISCE<br>🏹 Proficient in Java | Kotlin | XML<br>🌱 Currently learning Jetpack Compose & Web Development<br>🚀 I love contributing to Open Source projects.<br>📫 You can reach out to me here: [LinkedIn](https://www.linkedin.com/in/aritra-das-/)<br>
+👨🏽‍💻 A passionate Android Developer & UI/UX Designer<br> 🎓I'm a 3rd year CSE student at JISCE<br>🏹 Proficient in Java | Kotlin | XML<br>🌱 Currently learning Jetpack Compose <br>🚀 I love contributing to Open Source projects.<br>📫 You can reach out to me here: [LinkedIn](https://www.linkedin.com/in/aritra-das-/)<br>
 
 
 ## 🌐 Socials:

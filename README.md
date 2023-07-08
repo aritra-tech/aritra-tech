@@ -22,22 +22,5 @@
 # Tools:
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-# ⭐ GitHub Stats:
-<div align="center" width=100%>
-
-![](https://github-readme-stats.vercel.app/api?username=aritra-tech&theme=prussian&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aritra-tech&theme=prussian&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aritra-tech&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
- 
-
-# 📊 Stats 
-<div align="center">
-
-[![Aritra's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=aritra-tech&theme=xcode)](https://github.com/aritra-tech) <br>
-
-</div>
 
 

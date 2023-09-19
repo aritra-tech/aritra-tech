@@ -3,7 +3,7 @@
 A self-taught Android developer focused on all sorts of Android things,
 
 - I've developed Android Applications using both XML & Jetpack Compose (pinned).
-- I'm currently maintaining [Notify](https://github.com/aritra-tech/Notify) & [ComposeCards](https://github.com/aritra-tech/ComposeCards) librarie.
+- I'm currently maintaining [Notify](https://github.com/aritra-tech/Notify) & [ComposeCards](https://github.com/aritra-tech/ComposeCards) library.
 - I write articles on [Medium](https://medium.com/@aritradas20) about interesting topics in Android.
 - I love exploring other fields of Kotlin (KMP).
 - I like to know how things work internally.

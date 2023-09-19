@@ -1,11 +1,23 @@
-<p>
-   <img src="https://user-images.githubusercontent.com/80090908/178961128-15f46b9c-7fe5-465b-8379-8448b6029e0a.png"/>
- </p>
+### Hi! I'm Aritra Das
 
-# 💫 About Me:
-👨🏽‍💻 A passionate Android Developer & UI/UX Designer<br> 🎓I'm a 3rd year CSE student at JISCE<br>🏹 Proficient in Java | Kotlin | XML<br>🌱 Currently learning Jetpack Compose <br>🚀 I love contributing to Open Source projects.<br>📫 You can reach out to me here: [LinkedIn](https://www.linkedin.com/in/aritra-das-/)<br>
+A self-taught Android developer focused on all sorts of Android things,
 
+- I've developed Android Applications using both XML & Jetpack Compose (pinned).
+- I'm currently maintaining [Notify](https://github.com/aritra-tech/Notify) & [ComposeCards](https://github.com/aritra-tech/ComposeCards) librarie.
+- I write articles on [Medium](https://medium.com/@aritradas20) about interesting topics in Android.
+- I love exploring other fields of Kotlin (KMP).
+- I like to know how things work internally.
 
+### Connect with me:
+
+<p align="left">
+<a href="https://twitter.com/aritratech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aritra-das-/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://medium.com/@aritradas20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" height="30" width="40" /></a>
+<a href="mailto:aritrarick2002@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="40" /></a>
+</p>
+
+<!--
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aritra-das-/) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aritratech) [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/aritradas8) [![HashNode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://aritradas.hashnode.dev/)
 
@@ -21,6 +33,7 @@
 
 # Tools:
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+-->
 
 
 

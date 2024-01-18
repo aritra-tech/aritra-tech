@@ -1,5 +1,4 @@
 ### Hi👋! I'm [Aritra Das](https://portfolio-aritradas.vercel.app/)
-<a href="https://u8views.com/github/aritra-tech"><img src="https://u8views.com/api/v1/github/profiles/80090908/views/day-week-month-total-count.svg"></a>
 
 A self-taught Android developer focused on all sorts of Android things,
 

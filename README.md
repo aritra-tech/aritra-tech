@@ -4,7 +4,7 @@ A self-taught Android developer focused on all sorts of Android things,
 
 - Android Developer @[IONAGE](https://www.ionage.in/)
 - I've developed Android Applications using both XML & Jetpack Compose (pinned).
-- I'm currently maintaining [Notify](https://github.com/aritra-tech/Notify) & library [ComposeCards](https://github.com/aritra-tech/ComposeCards), [ComposeScratchEffect](https://github.com/aritra-tech/ComposeScratchEffect).
+- I'm currently working on my product [UnCrack](https://github.com/uncrack-vault).
 - I write articles on [Medium](https://medium.com/@aritradas20) about interesting topics in Android.
 - I love exploring other fields of Kotlin (KMP).
 - I like to know how things work internally.

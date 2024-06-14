@@ -1,25 +1,34 @@
-### Hi👋! I'm [Aritra Das](https://portfolio-aritradas.vercel.app/)
+![Aritra](https://github.com/aritra-tech/aritra-tech/assets/80090908/7ea67c37-ffbd-48b2-a943-8c59dac6c4da)
 
-A self-taught Android developer focused on all sorts of Android things,
 
-- Android Developer @[IONAGE](https://www.ionage.in/)
-- I've developed Android Applications using both XML & Jetpack Compose (pinned).
-- I'm currently working on my product [UnCrack](https://github.com/uncrack-vault).
-- I write articles on [Medium](https://medium.com/@aritradas20) about interesting topics in Android.
-- I love exploring other fields of Kotlin (KMP).
-- I like to know how things work internally.
+## <img width="45" alt="about" src="https://raw.github.com/SebastianAigner/SebastianAigner/master/about.png"> More about me
+```kotlin
+val aritra-tech = human {
+    about {
+        name = "Aritra Das"
+        company = Ionage
+        role = SDE-1
+    }
+
+    tech {
+        day("Kotlin", "Jetpack_Compose", "SwiftUI", "KMP_CMP")
+        night("Side_Projects", ".*".toRegex())
+    }
+
+    links {
+        email = "aritrarick2002@gmail.com"
+        twitter = "@aritratech"
+        medium = "@aritradas20"
+        linkedIn = "in/aritra-das-"
+    }
+}
+```
+
+</div-->
 
 ### 📊 Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=aritra-tech&count_private=true&show_icons=true&include_all_commits=true" alt="Aritra Das | Stats" />
     
-### 🔗 Connect with me:
-
-<p align="left">
-<a href="https://twitter.com/aritratech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aritra-das-/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://medium.com/@aritradas20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="medium" height="30" width="40" /></a>
-<a href="mailto:aritrarick2002@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="40" /></a>
-</p>
 
 
 
